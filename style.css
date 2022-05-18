@@ -1,0 +1,16 @@
+body{
+    background-color:cadetblue;
+    color:darkgoldenrod;
+}
+.heading{
+    width:80%;
+    font-size: 25px;
+}
+.model,#object_Name,#accuracy{
+    color:crimson;
+}
+#camera{
+    width:350px;
+    height: 300px;
+    border:2px solid black;
+}
